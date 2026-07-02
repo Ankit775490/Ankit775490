@@ -36,31 +36,6 @@ I love building real-world applications and continuously learning new technologi
 
 ---
 
-## 🚀 Projects
-
-### 🎓 Student Management System
-✔ Spring Boot
-
-✔ Spring MVC
-
-✔ MySQL
-
-✔ CRUD
-
-✔ REST API
-
----
-
-### 📚 Upcoming
-
-- Employee Management System
-- Library Management System
-- Banking System
-- E-Commerce REST API
-- Hospital Management System
-
----
-
 ## 📊 GitHub Stats
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit775490&show_icons=true&theme=tokyonight)
@@ -72,7 +47,39 @@ I love building real-world applications and continuously learning new technologi
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ankit775490&theme=tokyonight)
 
 ---
+## 🚀 Project
 
+### 🎓 Student Management System
+
+A RESTful Student Management System built using Java, Spring Boot, Spring Data JPA and MySQL.
+
+<p align="center">
+  <a href="https://github.com/Ankit775490/student-management-system">
+    <img src="https://img.shields.io/badge/View%20Project-Student%20Management%20System-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+⭐ Features:
+- CRUD Operations
+- Bean Validation
+- Global Exception Handling
+- Custom Search APIs
+- REST API
+- MySQL Database
+
+👉 **Repository:**  
+https://github.com/Ankit775490/student-management-system
+
+---
+### 📚 Upcoming
+
+- Employee Management System
+- Library Management System
+- Banking System
+- E-Commerce REST API
+- Hospital Management System
+
+---
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit775490&layout=compact&theme=tokyonight&cache_seconds=1800)
